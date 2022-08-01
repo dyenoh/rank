@@ -2,5 +2,8 @@
 
 n = int(input ("enter the range: "))
 
+#for x in range(0,n+1):
 for x in range(0,n):
-    print(x, end = "") 
+
+
+    print(x, end = " ") 
